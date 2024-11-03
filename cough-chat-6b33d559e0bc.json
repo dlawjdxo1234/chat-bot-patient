@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cough-chat",
+  "private_key_id": "6b33d559e0bc9e92b7fcbb024460128583f56611",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC65wTCmyMi5TU6\nMJs2d8nz0vjb8Q2SEBZZ4lgsnmgIjbwNmbt0jeNviS38FiAi7F88zxfbeh4J1Cf3\nS7fQxeb90CWRLuA0BwJtX3MbPrm/mM4ity5fwHKVUbQEiZ8RfwXU4vh8vJa49Boa\n0qNcqbdKclD6MIQEaByR30EGd85Ux1PZxhBHkN/mSiUKWCMWNohNulwK//WfweLR\nhetIRD3hUN6luxp54NG7UsQzRGcftX1JH28KK4KI/E4OQt/rv7NKd2fVMrA++cJ/\nta9tJjlUsNU9qkqWPjDEcfKpF82O6oziAKJxOsjjWU5hGN9VZ8VlIsEgkkwXdfPO\n2G/GJTW9AgMBAAECggEAHDATS7ZSCkU/TdNe1UwjrR44YhNs1IaQmGXGnpQVZJTb\ns8FnwCBWGNA7mzVLC3lSs70YAAXe2eShUm6c/mOaftURlV/YeIBGIXCvz4AaS4ck\nL6Ao4lAH9/UmjTikQONDYeQJTeazZJmMBleWQ7dk6VlsVQ9UGcYJ6QYerHcNK0PR\n5gUzMCdUtPlpl04olpnZpxgfXmdvKWza6y1mUWfDt+s3toH+HpCJuA+Cr50+/Unp\nALpu9hK21Ow4KZ51NjMjSGGx7oZUvsmui46YzFtbZKRaWHpgjXxeLPe4pHS6CcTy\nZRYgJa2IV3hSP48wCaJtkal0sVnyX4V4bvwFdODQAQKBgQD+xk+H7boxf/mhJ30z\nZ9GIUcnHRPWpS4i9swOP9ade5gX0W0s6LycKKHKgYtRTYVshNSZIniY6PVLn5IYr\nxK2LOd5uc77UI/uBj0B8+mH/6iqPrjFH2W0QK4b3hVi80XLBiSoVFsYY888NTfHI\nmDDQIlLIaqaqz4FKMiZIljZVAQKBgQC7zSQIyDZ9mGcjNQSWQNMEubE3d2/+mvuY\nvOh4J6ruh7Na9v5P9c6YoGpgjCp+Ljg3IKCUH4TleAchbWzA4OxoNO+7hlP4Jw09\nzJT+XRwVxvGhH3XgPeGBU6mrkaHjgU01sYH7LSNpQNmsGTpeg4xYt2PAEkPNYJ3y\n80uTbYR0vQKBgGGnYZSYamXOx8Adgr/Ra170+oKGzCK38RHFK/hiEGUvhdjDpXIH\n4M7j8gvH1dqf1m5EEQiEleJ83upDjan5GQvkgn2Tn/FwWVavseg1kJqnBulLu1fu\n3v7zsCfv1LOLFJFaIeczc3rc+OAAoExjCVK91T08o+WU49msnz/zU6ABAoGBAKzw\nBWTI6dTSSPeU1PqAC1HopZbMN6eflFxcaT5sWO16rODxXdLIKk1GO29Y47B6Y23w\nb663L6wX0YkouOMMvOZhCPoIgr6bR4hHIlTx7PDo2I1k6SlsEoMDRdUmMIvOAAmX\nwnhIYrmD7G6cdLGgNddkWUkACMvRUuHsxQWn7jeJAoGBAKm/Fku5CrrrcLqmBKtX\nHt3867FZ3kawiZ+ogCz07XTd/VM+a1DglbNGofk1O9ckHvdU2p+LkytTGTGDa/6T\n8YF7m/bQqWDCzaXym3PeZwD0VaONpFFUUIj0nXbh9RVzrLExnT0bDaoS/yHCCIM8\nd0iX72f1zr7WCCjAPv5ChSoS\n-----END PRIVATE KEY-----\n",
+  "client_email": "cheolsoo-patient@cough-chat.iam.gserviceaccount.com",
+  "client_id": "107579940440145557519",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cheolsoo-patient%40cough-chat.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
