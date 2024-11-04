@@ -2,12 +2,37 @@
 <html>
 <head>
     <title>My Chatbot</title>
-    <style>
-        /* CSS 스타일 추가 가능 */
-    </style>
+    <!-- Dialogflow Messenger 스타일 및 스크립트 추가 -->
+    <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+    <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
 </head>
 <body>
     <h1>Welcome to My Chatbot</h1>
-    <!-- 여기에 챗봇 인터페이스 코드 추가 -->
+
+    <!-- Dialogflow Messenger 임베드 코드 -->
+    <df-messenger
+      location="asia-northeast1"
+      project-id="cough-chat"
+      agent-id="33e1067b-560b-4ad9-b22b-944428c5b88f"
+      language-code="ko"
+      max-query-length="-1">
+      <df-messenger-chat-bubble chat-title="환자 이철수"></df-messenger-chat-bubble>
+    </df-messenger>
+
+    <!-- 스타일 설정 -->
+    <style>
+      df-messenger {
+        z-index: 999;
+        position: fixed;
+        --df-messenger-font-color: #000;
+        --df-messenger-font-family: Google Sans;
+        --df-messenger-chat-background: #f3f6fc;
+        --df-messenger-message-user-background: #d3e3fd;
+        --df-messenger-message-bot-background: #fff;
+        bottom: 16px;
+        right: 16px;
+      }
+    </style>
+
 </body>
 </html>
